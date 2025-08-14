@@ -94,4 +94,6 @@ Follow these steps to set up and run the project locally.
 * **UI for Testing**: A simple chat-like interface allows you to simulate sending a message and triggers the notification flow.
 
 ## 📸 Screenshots
-
+![image alt](https://github.com/Shobhit010/FCMWebApp/blob/main/s1.png)
+![image alt](https://github.com/Shobhit010/FCMWebApp/blob/main/s2.png)
+![image alt](https://github.com/Shobhit010/FCMWebApp/blob/main/s3.png)
